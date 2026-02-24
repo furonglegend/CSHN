@@ -32,8 +32,7 @@ Modern predictive systems often suffer from:
 
 ## 📂 Project Structure
 
-```
-
+```text
 .
 ├── data/
 │   ├── prepare_snare.py
